@@ -5,3 +5,6 @@ Meta 2: Formulario de sismos
 
 Meta 3: cardsort
 <https://pa25r1wh.optimalworkshop.com/optimalsort/w44aknve>
+
+Meta 4: Figma Dashboard
+<https://www.figma.com/board/laS0TEmRwZVSFMfnbt1G6D/Sin-t%C3%ADtulo?node-id=0-1&t=vUBLKJfD8Sx2Bd80-1>
